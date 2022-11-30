@@ -6,7 +6,7 @@ last_digit = abs(number) % 10
 if number < 0:
     last_digit = -1 * last_digit
 
-sout = 'Last digit of ' + str(number) + ' is '+ str(last_digit)
+sout = 'Last digit of ' + str(number) + ' is ' + str(last_digit)
 
 sdisplay = ''
 
