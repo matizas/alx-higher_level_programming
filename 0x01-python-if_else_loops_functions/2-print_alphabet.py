@@ -1,3 +1,3 @@
 #!/usr/bin/python3
 for k in range(97,123):
-    print(f"{chr(k)}",end='')
+    print('{0}'.format(chr(k)),end='')
